@@ -1,4 +1,4 @@
-# NetworkService
+# GridResourceMonitor
 
 Desktop WPF application for monitoring and managing distributed renewable energy resources on a 12-slot grid, with real-time measurement updates over TCP.
 
